@@ -1,0 +1,11 @@
+*{
+    font-family: "Open Sans";
+    font-weight: 200;
+    font-size: 24px;
+
+    text-align: center;
+}
+
+.canva{
+	border: 1px solid #000000;
+}
